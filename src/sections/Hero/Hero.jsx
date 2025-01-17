@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg'
 import githubDark from '../../assets/github-dark.svg'
 import linkdinLight from '../../assets/linkedin-light.svg'
 import linkdinDark from '../../assets/linkedin-dark.svg'
-import cv from '../../assets/CV_2025-01-12_Ayoub_AHARMOUCH.pdf'
+import cv from '../../assets/CV.pdf'
 import { useTheme } from '../../assets/common/ThemeContext'
 
 function Hero() {
