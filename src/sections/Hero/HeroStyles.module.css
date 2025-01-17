@@ -87,12 +87,25 @@
       align-items: center;
       justify-content: space-evenly;
     }
-    .hero {
+    /* .hero {
       max-width: 350px;
       width: 350px;
 
+    } */
+    .colorModeContainer{
+      max-width: 400px;
+    width: 40%;
+    margin-top: 40%;
+    margin-left: 28%;
     }
 
+    .description{
+      padding-left: 16%;
+    }
+
+    .hover{
+      margin-bottom: 20%;
+    }
     
   }
   
