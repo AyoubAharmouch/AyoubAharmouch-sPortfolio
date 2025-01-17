@@ -40,8 +40,10 @@
   }
 
   @media (width >= 200px) {
-    .Container {
-      margin: 30%;
+    .container {
+        margin-top: 20%;
     }
+    
   }
+  
   
